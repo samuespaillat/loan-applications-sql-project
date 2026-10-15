@@ -1,0 +1,547 @@
+loan_id,customer_name,state,loan_amount,interest_rate,term_months,loan_purpose,application_date,status,annual_income,credit_score,employment_length
+LN1510,Priya Patel,CA,23500,21.35,36, Education,2024-11-25,Denied,29000,768,8 years
+LN1390,Hannah Rivera,PA,52500,18.64,60,Medical,08/12/2025,approved,"$115,000",593,12
+LN1008,Tiffany Kim,NJ,"36,500",19.85%,60 months, Car Purchase,11/15/2024,Approved,"$123,000",1200,14 years
+LN1353,Maria Patel,FL,26000,13.13%,48,Education,2024-08-26,Denied,"$144,000",0,12
+LN1128,  Hannah Walker,NJ,19500,7.09,36,Small Business,00/00/0000,approved,67000,,17
+LN1142,  Luis Torres,PA,25500,18.89,48,Medical,08/23/2025,Pending,114000,611,9
+LN1318,ROBERT DAVIS ,fl,20000,0.0893,60,Home Improvement,06/04/25,denied,82000,699,18
+LN1246,Tiffany Johnson,NY,"31,500",0.2239,,Car_Purchase,2025-06-17,APPROVED,33000,0,18
+LN1201,David Nguyen ,CA,"$17,000",22.08%,60,Medical,,Pending,91000,663,19
+LN1009,Daniel Johnson,TX,"17,000",10.79%,48,Medical,08/07/2024,Approved,149000,,7
+LN1311,Kevin Davis,CA,21500,11.46%,36,Medical,2024-04-23,Denied,NULL,640,16
+LN1059,Kevin Patel,CALIFORNIA,23500,9.71,60,HOME IMPROVEMENT,03/19/2024,Approved,158000,618,
+LN1433,daniel thomas,FL,"$10,000",0.1194,24,medical,03/17/2025,Denied,127000,580,7 years
+LN1131,  Natalie Torres,OH,-11500,8.9,36,Debt Consolidation,07/20/2025,Approved,85000,774,10 years
+LN1408,  Linda Rivera,PA,"11,500",20.12,24 months,Medical,2024-08-19,Approved ,"$129,000",800,11
+LN1417,ELENA PATEL,ca,19000,15.99,,Debt Consolidation,08/17/2024,Approved,"$88,000",583,9
+LN1065,priya torres,CA,48000,10.01,4 years,Education,10/18/2024,Denied,87000,789,17
+LN1151,jessica kim,NY,26500,17.94%,48,Small Business,02/08/2024,Denied,98000,0,12
+LN1409,Linda Davis,NY,4500,8.04%,48,Medical,00/00/0000,Denied,69000,576,6
+LN1061,Robert Walker,Texas,"$34,000",12.81%,36,Small Business,04/05/2025,Pend,110000,656,19
+LN1437,tiffany rivera,NJ,46500,,36 months,Car Purchase,10/12/2024,Denied,37000,792,17
+LN1429,ELENA KIM,NJ ,19000,23.99,48,Debt Consolidation,2024-05-08,Denied,130000,668,19 years
+LN1325,kevin patel,PA,10000,8.07,60, Car Purchase,2024-04-24,Denied ,"$76,000",568,
+LN1221,HANNAH DAVIS,oh,N/A,15.95%,24 months,small business,01/03/2025,Approved,"$142,000",791,12
+LN1211,carlos patel,ca,49500,15.61,24, Medical,02/26/2025,Approved,"$45,000",656,5
+LN1214,NATALIE PATEL,NJ,25000,22.36,60 mo,Debt Consolidation,25-04-24,Pending,139000,,
+LN1398,LINDA DAVIS,CA,59000,7.73%,60 mo,debt consolidation,01/06/2024,Denied,-108000,788,3
+LN1209,Hannah Thomas,New Jersey,"$46,500",,48,Home_Improvement,07/31/2025,Approved ,107000,782,11
+LN1036,omar smith,FL,45000,21.11,36 months,Small Business,2024-06-28,Approved,141000,800,8
+LN1094,Maria Johnson,OH,400000,10.95%,60,CAR PURCHASE,05/18/2024,Approved,123000,,12
+LN1141,Natalie Clark,ny,13000,0.1482,36 months,EDUCATION,02/27/2024,DENIED,84000,679,0
+LN1342,carlos johnson,PA,8000,15.79%,24,home improvement,05/27/2024,DENIED,93000,653,2
+LN1230,Hannah Miller,NJ,11500,0.1199,48 mo,Home Improvement,2024-05-20,Pending,NULL,604,16
+LN1101,kevin lewis,FL,"17,500",14.99,24,Car Purchase,09/20/2024,pending,153000,810,14
+LN1162,Michael Wilson,oh,24500,19.75,5 years,Small Business,02/17/2025,Denied,,569,7 years
+LN1161,Jessica Smith,NEW YORK,"$50,000",21.33,60,home improvement,01/19/2024,Denied,91000,562,7
+LN1261,  Daniel Miller,NY,"53,000",7.37,48,debt consolidation,04/17/2025,Approved,77000,683,16
+LN1019,  David Torres,OH,6000,-,24 months,Medical,2024-11-17,Pending,104000,623,16
+LN1181,Robert Garcia ,NJ,52500,10.29%,36,car purchase,00/00/0000,Approved,94000,676,13 years
+LN1032,Ashley Brown,California,"$57,500",19.8,36,Debt Consolidation,01/13/2024,Pending,NULL,705,15
+LN1288,Ashley Kim,nj,33000,22.73,60,Small Business,2024-01-30,Pending,98000,621,15 years
+LN1471,David Moore,NJ,37500,19.57,48,HOME IMPROVEMENT,05/19/2024,Pending,67000,674,9+ yrs
+LN1198,Kevin Anderson,Texas,14500,0.1534,36,car purchase,04/02/2024,pending,117000,705,11+ yrs
+LN1106,Priya Nguyen,FLORIDA,6500,11.97,48,Education,11/30/2024,Denied,97000,,
+LN1035,Michael Johnson,PA,12500,20.56,24 months,Debt Consolidation,TBD,pending,,623,9
+LN1116,ashley walker,TX,7000,18.27,24 months,Medical,2024-04-30,Pending,106000,682,3
+LN1113,James Rivera ,PA,20500,13.4,36 months,Education,2024-04-28,denied,"$117,000",632,9+ yrs
+LN1062,Tiffany Lopez,ny,"$25,500",22.94,,Education,02/22/2025,Pending,41000,733,20+ yrs
+LN1123,Michael Patel ,NJ,"57,500",23.22,24,Education,2024-04-05,Approved,"$92,000",744,2+ yrs
+LN1044,Carlos Thomas,FL,21000,-,48,Education,05/09/2025,Pending,88000,614,12
+LN1309,LINDA CLARK,FL,"17,000",0.218,48,Medical,01/09/2024,pending,93000,,9
+LN1250,HANNAH THOMAS,Ohio,39500,13.36,60,Car Purchase,"Jul 15, 2025",approved,151000,641,12
+LN1252,James Brown,CALIFORNIA,11500,14.11,24,Medical,02/03/2025,Approved,78000,788,6
+LN1024,  Natalie Smith,NY,21000,19.82,48,EDUCATION,2025-07-05,Approved,152000,672,7
+LN1117,natalie patel,NJ,13500,11.48,48,Education,00/00/0000,Denied,"$30,000",0,15
+LN1195,Tiffany Miller,CA,27000,19.84,48,Medical,07/19/2025,Pend,73000,807,
+LN1318,Robert Davis,fl,20000,0.0893,60,Home Improvement,06/04/25,denied,82000,699,18
+LN1262,maria smith,TX,7500,6.58,60,Debt Consolidation,05/04/2024,Denied,"$50,000",621,19
+LN1321,Jessica Martinez,FL,25500,15.24,48,Medical,04/01/2025,Pending ,149000,758,8
+LN1104,Robert Anderson,OH,,16.0,36,Car Purchase,01/10/2024,Pending,49000,9999,15 years
+LN1389,BRIAN LOPEZ,OH,"$9,000",14.66,60,Medical,09/06/2024,Denied,71000,668,2
+LN1443,David Nguyen,FL,31000,15.98,36,Education,07/19/2024,Approved,59000,800,11
+LN1450,Kevin Davis,NY,13000,9.26,24,Education,2025-02-06,Approved,107000,612,5
+LN1053,Daniel Thomas,OH,28500,19.36%,24 months,medical,TBD,Approved,93000,720,11
+LN1458,Ashley Thomas,CA,11500,21.61,3 years,Small Business,13-05-24,Pending,NULL,672,12
+LN1183,Jessica Smith,tx,"57,500",16.05,36,Home Improvement,02/12/24,Pend,,562,
+LN1513,ROBERT SMITH,NY,"46,500",9.07,36,Home Improvement,07/04/2025,Approved ,112000,794,3
+LN1099,Hannah Davis,oh,15000,22.02,24 mo,Car Purchase,2024-11-06,Approved,82000,567,6
+LN1432,Kevin Rivera,tx,57500,21.69,24,EDUCATION,00/00/0000,Pending,146000,637,2
+LN1150,Robert Johnson,OH,"$37,500",13.05%,24,Car Purchase,10/09/2024,Approved,"$31,000",794,19
+LN1293,Tiffany Davis,TEXAS,"59,500",9.3,24,Home Improvement,01/30/2024,Pending,65000,606,8
+LN1051,Maria Brown,CA,"28,500",15.5,36,Education,2025-05-02,Approved ,120000,789,16+ yrs
+LN1284,natalie patel,FL,-38500,18.17,48,Medical,2024-12-12,Pending,150000,617,1
+LN1016,Maria Torres,NJ,45500,10.24,36 months,Education,12/28/2024,Denied,67000,768,7
+LN1215,Robert Walker,NEW YORK,50500,17.38,36,Medical,12/30/2024,DENIED,,0,4
+LN1140,Maria Nguyen,TX,56000,24.17,48 months,Education,"Dec 29, 2024",Approved,-73000,648,7
+LN1347,Hannah Johnson ,FL,58000,17.83,3 years,Education,07/05/2025,Denied,141000,575,3 years
+LN1049,Jessica Martinez,CA,25500,15.84%,2 years,Education,03/03/2024,DENIED,98000,763,6
+LN1031,Elena Martinez,CA,14000,-,60 months,Home_Improvement,2024-07-15,Denied,NULL,9999,8 years
+LN1226,Tiffany Smith,Florida,21500,0.0872,24,DEBT CONSOLIDATION,03/28/2025,Pending,140000,634,1 years
+LN1152,Ashley Patel,NEW YORK,55500,14.84,36 months, Medical,08/21/2024,Pending,104000,628,14 years
+LN1460,Ashley Davis,OH,"13,000",16.79%,48 months, Small Business,"Jun 15, 2025",Denied,55000,781,1
+LN1475,Michael Miller,Florida,50500,18.01,48,SMALL BUSINESS,2024-03-10,Pending,124000,1200,15 years
+LN1455,tiffany martinez,pa,16000,6.41,36,Car Purchase,05/22/2024,approved,"$110,000",613,13 years
+LN1474,Brian Garcia,NY,"10,500",14.39,48,car purchase,10/10/24,Denied,68000,564,11
+LN1176,ashley garcia,OH,26500,13.41,24 mo,Education,19-07-25,Pending,31000,587,8
+LN1319,Daniel Brown,PA,7000,,48,Education,04/09/2025,approved,29000,697,10
+LN1091,James Miller ,CA,25000,18.66,36,Debt Consolidation,05/01/2024,Denied,9999999,N/A,
+LN1148,carlos lewis,pa,11500,19.79,36,Education,2024-03-28,Approved,"$133,000",736,18
+LN1075,Daniel Torres,ca,"6,000",15.95%,24,Debt Consolidation,"Nov 03, 2024",Denied,72000,640,11 years
+LN1080,Sofia Wilson,tx,48000,11.44,60 mo,Car Purchase,05/25/2025,Denied,155000,799,9
+LN1220,  Jessica Thomas,California,44500,13.61,36,Small Business,06/19/2024,Denied ,130000,652,16
+LN1272,jessica patel,NJ,29500,10.28%,48,Education,"Feb 14, 2024",Declined,,,17
+LN1442,PRIYA ANDERSON,ny,56000,18.03%,48,Car Purchase,10/17/2024,Denied,50000,610,3
+LN1436,Linda Patel ,OH,12000,16.33,36 months,Home Improvement,08/16/2024,Denied,-146000,758,2
+LN1144,Robert Wilson,oh,2500,10.54,5 years,Medical,2024-03-10,Pending ,93000,739,3
+LN1518,Carlos Rivera,OH,4500,24.42,24,Car Purchase,10/07/2024,Approved,35000,589,
+LN1333,Michael Lewis,pa,N/A,24.12,24,Education,03/05/25,Pending,105000,765,10
+LN1377,Ashley Smith,NJ,"56,000",19.42,24,Home Improvement,09/05/2024,DENIED,"$41,000",665,7
+LN1039,Brian Clark,NJ,26500,-,60,Car Purchase,03/12/24,Approved ,134000,701,10
+LN1165,Omar Rivera,New Jersey,7500,20.31%,3 years,Debt Consolidation,2024-04-13,pending,"$87,000",691,14 years
+LN1068,james johnson,pa,"18,000",9.6,60,DEBT CONSOLIDATION,07/15/2025,Pending,56000,776,9
+LN1124,ELENA MOORE,CA ,30000,5.68%,24,SMALL BUSINESS,05/03/2024,Approved,61000,1200,15
+LN1317,Brian Garcia,NJ,11500,6.54,60 months,Small Business,"Feb 06, 2024",Denied,94000,800,5+ yrs
+LN1167,Omar Rivera,FL,38000,18.39,60 months,Education,00/00/0000,Pending,35000,743,4
+LN1228,Tiffany Miller,pa,31500,17.94,36 mo,Medical,00/00/0000,Denied,97000,,
+LN1421,James Garcia,NJ,17500,20.13%,24 months,Car Purchase,05/26/2024,DENIED,,566,3
+LN1254,JESSICA KIM,NJ,20000,24.45,60,DEBT CONSOLIDATION,05/17/2024,Denied,46000,565,20
+LN1081,JAMES MARTINEZ,OH,1050000,-,24,Medical,02/16/2025,Pending,"$39,000",747,12
+LN1207,carlos walker,ca,27000,10.65,48,Education,01/06/2025,denied,133000,790,5 years
+LN1327,Tiffany Rivera,NJ,47500,6.65,36,Small Business,2025-03-08,APPROVED,44000,721,8
+LN1370,Daniel Kim,OH,12500,10.3,36,medical,04/18/2025,Pending,46000,573,20
+LN1136,ASHLEY MILLER,FL,"$13,000",6.09%,48,HOME IMPROVEMENT,04/08/2025,Denied,52000,,14
+LN1143,Omar Lopez ,OH,21500,19.45%,24, Car Purchase,"May 10, 2024",denied,,650,
+LN1419,kevin miller,FL,42000,17.55,60,Education,2025-03-28,DENIED,111000,672,
+LN1394,Ashley Patel,ca,14000,,48,CAR PURCHASE,04/09/24,Denied,9999999,627,
+LN1180,Robert Martinez,New Jersey,51000,15.72,36,Medical,03/08/2024,Pending,"$82,000",667,13 years
+LN1223,Omar Martinez,TX,43000,11.21%,48,Education,"Mar 21, 2024",Approved,113000,9999,11
+LN1227,Linda Patel,Ohio,32000,5.93,60 months,Education,2025-07-04,Pending,,1200,17
+LN1090,DANIEL PATEL,TX,"45,000",19.89%,60,home improvement,2025-02-19,Denied,159000,778,10
+LN1149,Luis Lewis,TX,"$53,000",16.36,60, Medical,05/03/2024,Approved,,789,5
+LN1027,Omar Smith,NY,"$38,500",18.37,48,Car Purchase,02/10/2025,Pending,47000,661,18
+LN1229,BRIAN CLARK,CA,,,24,Car_Purchase,12/07/2024,Denied,128000,810,5 years
+LN1418,Jessica Wilson,PA,"$47,000",22.3,24,SMALL BUSINESS,05/16/2024,Pending,103000,769,10
+LN1110,natalie lewis,FL,"17,500",11.69,24 months,Education,00/00/0000,Denied,57000,1200,18
+LN1498,DAVID KIM,Texas,19500,16.43,,Small Business,,Approved,NULL,737,5
+LN1379,Sofia Rivera ,oh,29000,,48,Car Purchase,06/08/2024,Declined,33000,806,12 years
+LN1350,Maria Wilson,oh,56000,24.41%,24,Car Purchase,05/04/2024,Approved,154000,798,11
+LN1294,sofia clark,PA,"$48,000",7.38,60, Medical,05/31/2025,Approved,121000,803,18
+LN1170,Hannah Smith ,fl,"7,500",20.54,24,Car Purchase,00/00/0000,Denied,"$144,000",665,10
+LN1344,Michael Patel,TX,28000,13.97,60 months,Medical,25-05-24,Pending,"$71,000",751,7
+LN1088,  Michael Smith,tx,12000,13.23,48 mo,Education,05/03/2025,APPROVED,101000,0,10
+LN1283,Jessica Lopez,New Jersey,-37500,18.94,24,Medical,12/18/2024,Denied,123000,635,14
+LN1169,Natalie Wilson,nj,23000,23.93,36 months,Medical,06/03/2025,Denied,"$124,000",674,12 years
+LN1100,Jessica Patel,NY ,25000,15.24,48 mo,home improvement,"Apr 22, 2025",Pending,148000,N/A,10
+LN1407,KEVIN DAVIS,NY,N/A,15.3%,36, Education,2025-04-19,APPROVED,"$42,000",809,
+LN1108,priya anderson,FLORIDA,7000,19.27%,60,Medical,08/08/2025,DENIED,125000,646,5
+LN1359,  Jessica Wilson,tx,29000,24.06,60,Car Purchase,02/17/2024,Approved,103000,656,
+LN1074,Carlos Nguyen,PA,"3,500",19.48,48, Medical,06/14/2025,Approved,58000,758,8 years
+LN1511,Linda Kim ,CA,"$6,500",12.64,3 years,Car Purchase,TBD,pending,70000,622,6
+LN1349,Tiffany Lewis,New Jersey,6000,16.68%,36,Education,05/10/2024,Pending,"$86,000",692,16
+LN1384,Jessica Lopez,California,"$10,500",0.0926,60,Small Business,05/29/2025,Denied,143000,616,
+LN1237,  Michael Lopez,Florida,11000,8.9,36 months,small business,2025-03-05,Denied,"$107,000",717,14
+LN1281,James Patel ,NJ,-6000,5.92,60,Car Purchase,2025-06-16,Approved,133000,731,18
+LN1057,Ashley Garcia,NJ,N/A,24.2%,36,MEDICAL,2024-01-08,Pending,105000,664,6 years
+LN1466,Michael Moore,ny,"$41,500",-,60,Debt Consolidation,11/06/2024,Denied,"$101,000",809,2
+LN1384,Jessica Lopez,California,"$10,500",0.0926,60,Small Business,05/29/2025,Denied,143000,616,
+LN1119,Ashley Garcia,OH,,12.12,36,Home Improvement,03/25/2025,Approved,88000,620,6
+LN1448,Kevin Wilson,CA,"$30,500",20.86,60,Car Purchase,11/01/2024,Pending,73000,565,18 years
+LN1387,Michael Smith,TX,9500,22.01,24 months,Education,09/11/2024,Approved,143000,748,19
+LN1034,James Kim,OH,46000,16.78,24,Education,02/03/2024,Approved,,N/A,9
+LN1482,Tiffany Anderson ,CA,"$45,500",19.52,48,Small Business,2024-02-23,approved,124000,758,4
+LN1388,Brian Nguyen,Texas,"33,000",13.1%,36,Car Purchase,00/00/0000,approved,149000,779,3
+LN1490,ELENA GARCIA,CA,"$18,500",24.03%,3 years,Car Purchase,12/27/2024,Denied ,88000,N/A,11
+LN1191,Carlos Lopez,TX,27500,0.1689,36,Home Improvement,10/17/2024,Approved,83000,603,14
+LN1002,Priya Wilson ,NEW YORK,N/A,9.59%,24,Debt Consolidation,2024-04-14,Pending,125000,607,
+LN1070,Linda Lewis,CA,"50,000",11.82%,36,medical,12/26/2024,Approved,72000,733,14
+LN1411,Luis Lopez,NJ,19500,20.07,2 years,Car Purchase,09/10/2024,approved,78000,779,15+ yrs
+LN1412,  James Walker,NJ,7500,21.92,48,Small Business,02/21/2025,PENDING,87000,716,7 years
+LN1361,Jessica Miller,TX,7000,8.05,36,Medical,2024-10-29,DENIED,118000,787,7 years
+LN1330,Maria Clark,NY,59000,8.37,36 months,car purchase,02/21/2024,Pend,145000,N/A,3
+LN1467,Ashley Moore,ca,"51,000",16.15,36,Education,2024-10-04,Approved,78000,633,
+LN1129,maria patel,CA,49000,18.0,60,Home Improvement,TBD,Denied,"$63,000",566,0
+LN1492,Omar Garcia,CA,48000,8.35%,36,Debt Consolidation,20-03-24,PENDING,-156000,674,18
+LN1512,Carlos Moore,NY ,41000,22.4,5 years,Small Business,00/00/0000,Approved ,"$80,000",708,
+LN1334,KEVIN DAVIS,NY,7000,6.2,2 years,Debt Consolidation,"Feb 03, 2025",Declined,100000,624,6+ yrs
+LN1112,LINDA NGUYEN,ca,"44,500",12.25,36,Education,2025-07-30,Denied,112000,764,
+LN1440,Brian Brown,OH,57000,11.51%,48,Home Improvement,"Sep 26, 2024",Approved,9999999,561,
+LN1122,David Rivera,NY,"$22,500",21.24,24,DEBT CONSOLIDATION,07/14/2025,Denied,152000,626,10
+LN1179,Hannah Smith,PA,44500,12.07,,Car Purchase,2024-09-06,pending,110000,580,12
+LN1341,Natalie Moore,PA,9500,18.01%,60,Small Business,01/20/2024,APPROVED,80000,700,7
+LN1013,Daniel Nguyen,NY,27000,7.99%,2 years,SMALL BUSINESS,2025-04-13,Approved,46000,N/A,0
+LN1089,  Natalie Lopez,CA,57500,23.09,36,Car Purchase,01/10/2024,Approved ,55000,712,10 years
+LN1435,Ashley Anderson,OH ,56500,17.27,,education,03/27/2025,Approved,,747,19 years
+LN1196,David Moore,OH,52000,11.93%,,small business,06/13/2024,Denied,29000,759,2
+LN1399,Elena Patel,PENNSYLVANIA,35000,22.69,24, Car Purchase,06/30/2025,APPROVED,NULL,787,18
+LN1286,Hannah Johnson,NJ,48500,22.37,48 months,Small Business,03/29/2025,Denied,69000,,13
+LN1420,Omar Rivera,California,"$13,500",17.8,36,Education,11/13/2024,pending,73000,643,12 years
+LN1147,  Tiffany Rivera,NJ ,8000,5.99,60 months,Car Purchase,2024-10-25,Denied ,"$149,000",601,3
+LN1369,Sofia Lewis,PA,"$27,000",18.77,36,Medical,,Approved,"$98,000",,20
+LN1030,  Priya Rivera,TX,"50,500",10.07,48,Car Purchase,2025-05-17,Pending,32000,789,2
+LN1438,JAMES KIM,NY,18000,17.58,3 years, Small Business,05/25/2024,Declined,NULL,595,12
+LN1497,SOFIA MOORE,CA,39500,10.81,36,Small Business,2024-08-25,Approved,"$154,000",712,10
+LN1363,Hannah Miller,PA,51000,11.19,24 mo,Education,2025-02-17,Pending,31000,767,15
+LN1185,  Ashley Lewis,New Jersey,38000,16.27,24,Home Improvement,2025-03-14,Denied,29000,646,10
+LN1495,Linda Brown,FL,4000,21.34,36, Car Purchase,06/19/2024,Denied,61000,597,16
+LN1328,Omar Wilson,TX,56500,21.51,48,Home Improvement,05/14/2024,Pending ,NULL,710,13
+LN1297,Carlos Lewis,tx,19000,19.87%,48,Home Improvement,12/30/2024,Approved,131000,803,15 years
+LN1402,Carlos Smith,PA,26000,24.11,60 months,Small Business,01/22/2025,pending,59000,613,5
+LN1337,Carlos Lewis,OH,42500,13.55,48,CAR PURCHASE,05/16/2025,DENIED,69000,773,4
+LN1489,  Robert Miller,TX,"37,000",0.1147,36,education,03/27/2025,Approved,94000,652,8 years
+LN1320,ROBERT CLARK,Texas,26000,7.26,24,EDUCATION,07/01/2024,Denied,130000,682,2
+LN1255,Brian Moore,OH,37000,0.2108,48,Medical,"Dec 29, 2024",Approved,75000,675,13+ yrs
+LN1270,natalie johnson,PA,2000,8.91,36,Car Purchase,"Oct 17, 2024",Pending,149000,773,4
+LN1200,Daniel Kim,NY,"$35,000",15.68,24, Small Business,"Sep 11, 2024",Approved,51000,707,12
+LN1132,brian patel,FL,-56000,11.4,36,Car Purchase,07/20/2025,Approved,30000,793,
+LN1098,  Brian Garcia,tx,28000,23.89,60,home improvement,2025-02-01,Pending,93000,684,6
+LN1259,Robert Brown,Texas,54500,8.43,48 months,Small Business,02/26/2025,Approved,88000,756,14
+LN1136,ASHLEY MILLER ,FL,"$13,000",6.09%,48,HOME IMPROVEMENT,04/08/2025,Denied,52000,,14
+LN1345,Tiffany Miller,FL,-45500,12.72,24 months,Home Improvement,08/05/2024,Denied,39000,704,5
+LN1292,Michael Nguyen,NY,"$10,000",9.49%,36,Car Purchase,2025-03-11,Declined,47000,617,0
+LN1222,carlos clark,Texas,37500,0.1634,60 mo,small business,2024-04-06,Approved,145000,579,
+LN1425,Priya Rivera,CA,28000,16.93,24 mo,Debt Consolidation,2024-05-21,Pending,126000,685,13 years
+LN1469,JESSICA THOMAS,ny,29000,14.36,48,SMALL BUSINESS,"Apr 17, 2025",Pending,"$34,000",574,13+ yrs
+LN1241,  Ashley Davis,PA,9500,5.96%,3 years, Small Business,07/31/2024,Denied,133000,0,1
+LN1020,James Patel,NY,15000,13.67,24,Small Business,21-04-25,DENIED,141000,786,
+LN1011,  Natalie Rivera,NJ,57000,13.12,36,Car Purchase,2024-06-17,approved,28000,754,12
+LN1464,Michael Kim,FL,16000,0.1803,60 months,Medical,12/31/2024,Pending,35000,814,7
+LN1322,  Natalie Moore,CA,43000,,24 mo,Medical,04/24/2025,Approved,48000,783,15
+LN1135,  Linda Lopez,Ohio,"$31,500",0.1147,36,Education,07/02/2025,DENIED,81000,743,14 years
+LN1478,Jessica Kim,TX,,21.93,24,Home Improvement,2024-07-08,pending,76000,,6
+LN1212,Michael Thomas ,CA,2500,9.92,60,Debt Consolidation,01/16/2024,Approved ,"$83,000",812,
+LN1430,  Jessica Kim,NJ,"$19,000",7.56,36, Small Business,01/06/2025,approved,35000,731,7
+LN1414,Carlos Davis,TX,26500,0.0716,36,debt consolidation,"May 13, 2024",Denied ,38000,621,18
+LN1383,Omar Patel,CA,28000,,36,medical,04/21/2024,Pending ,64000,736,
+LN1336,Omar Brown,ca,26000,15.37,60 months,Medical,2024-04-17,Denied,77000,727,11
+LN1401,David Torres ,TX,"44,000",-,60,Education,03/05/2025,PENDING,108000,N/A,13
+LN1335,Maria Torres,ny,,0.1514,36,Car Purchase,02/18/2024,Pending,142000,623,9
+LN1111,Priya Rivera,NJ,42500,11.25,24,Education,06/06/2024,Denied,124000,776,2
+LN1127,MICHAEL ANDERSON,fl,N/A,16.3%,24 months,Medical,13-07-25,Pending,148000,648,2
+LN1310,Natalie Rivera,CALIFORNIA,28000,23.1,24,Medical,,Pending,69000,611,8+ yrs
+LN1326,  Brian Rivera,oh,3000,21.84,60,Medical,"Jul 25, 2024",Pending,"$128,000",710,1
+LN1380,Michael Rivera ,NJ,11500,22.91,36,Small Business,"Jan 14, 2024",Denied,123000,,15
+LN1033,  Robert Nguyen,PA,37500,20.02,60 months,education,,pending,NULL,754,14 years
+LN1267,Maria Wilson,PA,23500,20.47,36 months, Car Purchase,02/19/2025,pending,82000,620,20 years
+LN1183,JESSICA SMITH ,tx,"57,500",16.05,36,Home Improvement,02/12/24,Pend,,562,
+LN1022,Brian Brown,Florida,31500,18.18,24,Education,03/29/2025,Denied,137000,1200,17
+LN1045,Ashley Nguyen,TEXAS,53000,12.19,60,Debt Consolidation,2024-09-13,DENIED,52000,630,20
+LN1064,Daniel Rivera,NJ,16000,24.5%,60,CAR PURCHASE,2024-03-20,Approved,53000,711,16
+LN1253,Ashley Garcia,New York,59500,15.93,36,Medical,2024-01-01,Approved,56000,743,9
+LN1287,Carlos Kim,nj,37500,14.28,60,Car Purchase,07/23/2024,Aprvd,125000,655,9
+LN1137,ROBERT SMITH,PA,"14,500",22.65,48,Medical,2024-05-11,DENIED,112000,607,3
+LN1196,David Moore,OH,52000,11.93%,,small business,06/13/2024,Denied,29000,759,2
+LN1300,OMAR ANDERSON,TX,,12.2,24 months,Education,11/24/2024,Denied,35000,9999,18
+LN1422,Hannah Martinez,pa,54500,6.35%,24,Home Improvement,15-04-24,Pending,64000,,
+LN1029,DANIEL NGUYEN,FL,"7,500",0.108,48,Small_Business,"Sep 06, 2024",Denied,125000,797,10
+LN1153,Sofia Johnson,New York,"$47,000",15.13%,60 months,Small Business,06/20/2025,Denied,72000,,6 years
+LN1010,Daniel Martinez,NJ,"$14,000",9.11,48,debt consolidation,05/23/2024,Approved,74000,776,
+LN1366,ashley johnson,NJ,8500,0.1832,60,car purchase,02/02/2024,PENDING,34000,810,
+LN1275,brian miller,PA,48500,13.63,60,Medical,09/10/2024,Denied,139000,727,18
+LN1314,Priya Lopez ,OH,52500,8.27%,24 months,Small Business,2024-09-25,Approved,143000,680,7
+LN1115,ROBERT LEWIS,PA,53000,22.07,60,Medical,"Jan 09, 2025",Denied ,78000,726,14
+LN1485,Hannah Davis,PA,"$25,500",19.27,,Car Purchase,02/06/2024,Approved,140000,0,20
+LN1107,MICHAEL ANDERSON,ny,25000,7.52,36,debt consolidation,2024-11-11,Approved,120000,787,8 years
+LN1470,James Thomas,FL,,22.12%,48,Medical,02/25/2024,Approved,42000,603,8 years
+LN1253,Ashley Garcia,New York,59500,15.93,36,Medical,2024-01-01,Approved,56000,743,9
+LN1046,Luis Miller,fl,12500,10.38,48,Medical,10/29/2024,Denied ,"$57,000",733,14
+LN1365,Hannah Patel,NY,39500,5.94,36,Home Improvement,05/22/2024,denied,112000,638,18
+LN1139,natalie torres,TX,34000,11.61%,24,Car Purchase,"Jul 03, 2024",Approved,"$109,000",573,19
+LN1305,ASHLEY LOPEZ,NY,-45500,16.92,48,Medical,09/01/2024,approved,,618,6
+LN1210,Natalie Patel ,PA,51000,0.1368,24,Medical,08/24/2024,APPROVED,123000,563,6
+LN1277,SOFIA TORRES,CA,N/A,18.87,36,Home Improvement,03/13/2024,Denied,"$113,000",757,16
+LN1403,Kevin Lopez,NY,53500,19.58%,48,small business,00/00/0000,Denied,,625,0
+LN1278,Maria Martinez,oh,25000,0.1434,36,Home Improvement,01/09/25,Pending,72000,747,20
+LN1087,Robert Torres,oh,43500,10.37,48 mo,Education,08/07/2024,Approved ,97000,663,17
+LN1279,Elena Wilson ,NY,59000,10.58%,48,Education,10/10/2024,Denied,44000,587,11
+LN1453,David Davis,PA,53000,0.1488,36 months,Debt Consolidation,10/08/2024,Approved,58000,775,3
+LN1190,Sofia Lopez,NY,"40,500",0.1913,36, Debt Consolidation,08/23/2024,Pending,"$112,000",772,3 years
+LN1026,Robert Garcia,fl,3500,23.54,60 mo,SMALL BUSINESS,"Jan 21, 2024",Pending,89000,638,4
+LN1188,michael rivera,NY,4500,9.66,48,Medical,08/25/2024,Pending,95000,592,11
+LN1413,Daniel Davis ,NEW YORK,"$32,000",10.82%,36,Home Improvement,TBD,Denied,92000,654,15
+LN1354,Omar Davis,Texas,10000,17.61%,24,Medical,29-12-24,Denied,151000,N/A,19
+LN1063,Jessica Patel,CA,46500,18.08,60,Education,03/27/2024,PENDING,"$124,000",718,20
+LN1444,Priya Nguyen,PA,59500,,3 years,Car Purchase,01/16/2024,Denied ,67000,573,11
+LN1392,  Brian Wilson,NJ,54000,23.41,60 months,Small_Business,05/26/2025,Approved,65000,793,19
+LN1372,Maria Clark,nj,3000000,0.1874,36 mo, Home Improvement,02/03/2025,Approved,141000,717,1
+LN1025,  James Johnson,CA,,8.08,, Medical,07/05/2024,Approved,"$94,000",585,12
+LN1329,Linda Kim,Ohio,21000,9.96,36,Small Business,"Jan 19, 2024",Approved,94000,743,11
+LN1298,sofia anderson,TX,45000,-,24,Car Purchase,04/08/2024,Approved,154000,,14
+LN1264,Brian Miller,pa,"$4,000",6.89,2 years,Small Business,"Apr 01, 2025",Pending,155000,569,4
+LN1286,HANNAH JOHNSON ,NJ,48500,22.37,48 months,Small Business,03/29/2025,Denied,69000,,13
+LN1290,Hannah Wilson,FL,"$22,000",21.21,24,Medical,10/04/2024,APPROVED,52000,745,17
+LN1449,james moore,tx,50500,8.39%,,Home Improvement,2024-04-27,Pending,35000,671,10
+LN1004,  Carlos Clark,New Jersey,45500,11.66,36,Education,08/22/2024,Pending,108000,576,12
+LN1077,Sofia Wilson,California,16000,12.07,24 months,EDUCATION,03/21/2024,Approved,78000,688,20
+LN1041,Linda Thomas,PA,,22.8,36,Small Business,05/27/2024,Denied,67000,769,2
+LN1299,  Kevin Thomas,OH ,4000,6.12,24,Car Purchase,"Jun 17, 2024",Denied,NULL,9999,4
+LN1273,Elena Kim,fl,14500,12.64,60,Home Improvement,03/16/2024,Denied,9999999,,1
+LN1423,Linda Nguyen,Pennsylvania,20000,12.29,24,Home Improvement,05/01/24,Pending,49000,,1
+LN1315,  Linda Clark,PA,-5000,11.82,60,car purchase,04/27/2025,Approved,39000,741,< 1 year
+LN1058,Maria Kim ,pa,"$31,000",,24,Car Purchase,08/12/25,denied,,779,20
+LN1187,NATALIE BROWN,NY ,"$27,000",0.0974,24,Car Purchase,,APPROVED,156000,797,16
+LN1357,James Torres,PA,,12.3,3 years,SMALL BUSINESS,05/25/2024,Pending,,708,
+LN1481,Maria Torres,pa,28500,0.1686,36,Medical,07/18/2025,approved,"$61,000",805,
+LN1456,  Daniel Walker,fl,53500,12.71,60,Education,05/21/2024,Pending ,58000,795,4
+LN1499,sofia smith,TX,59500,6.26,60,Medical,01/07/2024,Pending,"$34,000",810,11
+LN1258,Luis Johnson,FL,52000,10.78,60,Small Business,10/14/2024,Pend,93000,700,0
+LN1231,DAVID BROWN,NY,46000,0.189,60,Home Improvement,,Denied,68000,634,10
+LN1509,Brian Torres,Ohio,38000,7.57,24 months,Medical,2024-12-06,Pending,49000,9999,3
+LN1133,PRIYA SMITH,NJ,"36,500",12.08,36 months,Home Improvement,12/09/2024,Approved,124000,560,9
+LN1506,Daniel Kim ,NJ,"37,000",,36 mo, Education,02/06/2024,Approved,54000,570,16
+LN1156,Luis Walker,OHIO,N/A,,,Education,07/28/2025,Denied,104000,704,3
+LN1416,David Anderson,OH ,45500,0.1562,36 months, Car Purchase,18-06-24,Pending,158000,784,12
+LN1217,James Walker,FL,25000,20.24,60,Education,11/24/2024,Pend,-127000,0,6+ yrs
+LN1434,LINDA THOMAS,New York,12500,-,60,Small Business,2024-03-10,Approved,121000,703,11
+LN1249,JESSICA ANDERSON,nj,46500,22.93,,Small Business,11/28/2024,approved,152000,792,0
+LN1006,james martinez,ca,58500,15.7,24,Home Improvement,12/14/2024,Pending,103000,N/A,13
+LN1233,maria kim,FL,2500,23.08,48,Medical,2024-08-15,Approved,80000,663,2
+LN1326,  Brian Rivera,oh,3000,21.84,60,Medical,"Jul 25, 2024",Pending,"$128,000",710,1
+LN1441,Omar Smith,NY,54000,12.41,24,Car Purchase,2024-11-10,Approved,59000,817,
+LN1174,Jessica Brown,CA,43500,24.03,60,Car_Purchase,05/30/2025,Approved,"$57,000",N/A,11
+LN1367,  Linda Brown,TX,28500,0.1459,36,Small Business,"Feb 02, 2025",Pending,9999999,665,6
+LN1164,Luis Walker,PA,,7.67,3 years,Car Purchase,05/24/2025,denied,"$79,000",,8+ yrs
+LN1083,Luis Clark,OH,47000,16.2,48,Debt Consolidation,01/18/2024,Pending,112000,748,3
+LN1007,HANNAH MOORE,PA,40000,11.66%,36,Debt Consolidation,"Apr 24, 2024",Approved ,106000,745,7
+LN1208,  Kevin Moore,Florida,7000,7.47%,60,debt consolidation,2024-03-27,Denied,107000,759,7
+LN1382,Michael Miller,NJ ,40500,16.49,60 months,Home Improvement,01/13/2024,Declined,51000,619,20
+LN1355,Daniel Patel,NY,"2,500",0.1534,60,Debt Consolidation,28-02-24,Pending,157000,681,17
+LN1043,Sofia Lopez,New Jersey,N/A,17.08%,48,Small Business,09/03/2024,Denied,64000,814,7
+LN1239,Tiffany Lewis,FLORIDA,37500,8.87,48,car purchase,2025-08-15,Approved,37000,744,2
+LN1055,Tiffany Walker,CALIFORNIA,"43,000",16.08%,24,DEBT CONSOLIDATION,30-01-24,Approved,9999999,652,9
+LN1508,Kevin Patel,OH,"7,500",9.72%,48,Medical,,Pend,151000,0,9
+LN1339,Linda Clark,NY,6000,22.04,48,Car Purchase,,PENDING,"$143,000",718,10
+LN1431,Natalie Garcia,PENNSYLVANIA,22000,7.27,24 months,education,2024-01-09,Pending,100000,742,12 years
+LN1447,maria miller,Pennsylvania,"11,000",17.42%,36,Home Improvement,2024-04-23,Approved ,59000,1200,3
+LN1439,Natalie Clark,CA,"$52,000",8.55,48,Small Business,12/29/2024,Pending,30000,759,
+LN1134,robert lewis,Pennsylvania,-34000,8.04,48,Education,2024-03-17,APPROVED,NULL,591,4+ yrs
+LN1493,Daniel Nguyen,FL,51000,24.07%,60,Debt Consolidation,04/11/25,Pending ,,721,7
+LN1247,  Luis Martinez,nj,36500,12.16,24,home improvement,10/04/2024,approved,"$100,000",632,18
+LN1368,  Kevin Walker,FL,17500,15.49,48,Small Business,04/16/2025,APPROVED,38000,796,2
+LN1187,NATALIE BROWN,NY ,"$27,000",0.0974,24,Car Purchase,,APPROVED,156000,797,16
+LN1146,Sofia Walker,OH,N/A,-,24 mo,Debt Consolidation,"Jul 29, 2024",Declined,"$132,000",,17
+LN1078,Omar Garcia ,FL,57000,6.04,,Small Business,08/13/2025,Pending ,"$81,000",9999,18
+LN1491,JESSICA WILSON,OH,59000,17.89%,48,Small Business,10/28/2024,Pending,69000,575,11
+LN1517,jessica thomas,FL,"$44,500",12.07,48,Debt Consolidation,2024-08-06,Denied,125000,0,11
+LN1197,  Tiffany Garcia,fl,54000,8.83,48 mo,Home Improvement,2025-03-25,Pend,"$79,000",565,16
+LN1174,Jessica Brown,CA,43500,24.03,60,Car_Purchase,05/30/2025,Approved,"$57,000",N/A,11
+LN1048,Natalie Martinez ,PA,"17,000",22.36,60 months,Medical,02/01/2025,Declined,9999999,792,17
+LN1459,ELENA SMITH,OH,,0.1057,48,Medical,06/27/2025,denied,118000,791,8
+LN1400,  Michael Walker,TX ,15500,16.74,24 months,Small Business,05/11/2024,Approved,"$47,000",776,17
+LN1376,elena walker,pa,5500,8.11,48,Education,10/30/2024,Denied,66000,663,12
+LN1023,Carlos Wilson,ny,59000,15.76,60,Home Improvement,2024-06-03,Pending,"$126,000",678,4
+LN1097,Carlos Garcia,TX,39500,,60,Home_Improvement,03/13/2025,Pending,40000,813,11
+LN1256,Natalie Johnson,NJ,48500,19.39%,24,Car_Purchase,04/21/2025,Denied,"$50,000",600,7
+LN1071,  Hannah Rivera,ny,400000,19.81,60,Medical,10/19/2024,Pending,40000,742,20
+LN1118,Ashley Garcia,New York,16000,15.71,60,Debt Consolidation,2025-04-13,Approved,"$158,000",813,3
+LN1331,Brian Moore,OH,48500,22.04,60 mo,Medical,"Jan 07, 2025",Approved ,63000,731,
+LN1040,BRIAN WILSON,FL,14000,24.13,60,Education,08/08/25,Approved,"$87,000",756,13
+LN1204,Linda Miller,Florida,17000,16.05,48,Car Purchase,2024-07-19,Denied,66000,9999,15 years
+LN1307,Luis Miller,Ohio,"$58,500",0.0721,, Medical,"Nov 16, 2024",Denied,127000,,7
+LN1313,Jessica Lopez,Texas,9500,5.77,,Medical,2025-04-09,Approved,58000,813,7
+LN1405,James Kim,CA,34500,23.22,60,Education,"May 06, 2025",Denied,159000,9999,17
+LN1257,Omar Wilson,OH,24500,23.75%,24,Home Improvement,23-10-24,Denied,37000,645,19 years
+LN1021,James Garcia,New Jersey,32000,17.11%,36,Debt Consolidation,04/11/2025,Pending,"$77,000",772,12
+LN1186,SOFIA WALKER,pa,"$55,500",10.83,60 months,Car Purchase,,Approved,95000,660,20
+LN1189,Omar Clark,Texas,13000,12.66,48,Medical,01/09/2025,APPROVED,"$92,000",599,12
+LN1396,Natalie Patel,CA,"$40,000",23.64%,48 months,Education,"Apr 01, 2024",Approved,125000,797,8
+LN1092,Tiffany Torres,oh,46500,15.94,48 months,CAR PURCHASE,07/04/2025,Pending,NULL,671,19
+LN1312,Daniel Patel,NJ,7000,13.38,60, Medical,00/00/0000,Approved,85000,753,0 years
+LN1114,Sofia Nguyen,TX,"13,000",15.99,24,Education,07/27/2025,pending,146000,778,7
+LN1014,Ashley Walker,FL,"43,500",-,2 years, Small Business,16-04-24,Denied,,628,3 years
+LN1501,Maria Smith,New Jersey,10500,16.64%,60,Debt Consolidation,07/19/2024,Pending ,"$148,000",695,4
+LN1374,James Anderson ,NJ,31000,9.68,24,CAR PURCHASE,01/12/2025,Pending ,45000,582,6
+LN1251,LINDA LEWIS,tx,31500,11.68,36,Medical,03/31/2025,Approved,106000,650,12
+LN1410,Kevin Brown,Pennsylvania,8500,20.56,60,education,2024-06-08,Denied,156000,736,
+LN1037,Kevin Clark,pa,31000,7.17,24 months,Car Purchase,,pending,9999999,619,16
+LN1274,Maria Miller,NJ,9000,21.68,48,Home Improvement,"Mar 04, 2025",Approved,115000,647,7
+LN1378,Michael Johnson,NEW JERSEY,39500,0.1593,5 years,Home_Improvement,"Aug 29, 2024",Pending ,"$48,000",819,13
+LN1427,MICHAEL ANDERSON,CA,3500,18.73%,48, Debt Consolidation,01/15/2025,DENIED,55000,N/A,18
+LN1218,david martinez,PA,"$38,500",17.69,48,Debt Consolidation,16-05-25,Denied,40000,691,11
+LN1346,Daniel Miller,FLORIDA,47000,14.1%,60,Car Purchase,11/25/2024,Pending,81000,734,14
+LN1145,Elena Lopez,oh,"6,500",20.68,36,Car Purchase,10/28/2024,Denied,109000,570,8 years
+LN1168,Daniel Moore,TX,"$46,000",18.81,36,car purchase,19-03-25,Approved,151000,687,
+LN1457,NATALIE NGUYEN,PA,"18,500",20.06,36, Medical,12/27/2024,Approved,80000,684,2
+LN1069,Ashley Kim,PA,41000,12.2,48 months,medical,2024-07-10,denied,120000,1200,2
+LN1163,Maria Martinez,CA,"55,500",5.88,36,Small Business,03/02/2025,Pending,125000,787,3
+LN1066,Sofia Davis,FL,40500,8.13%,24 months,Home_Improvement,02/23/2024,Approved,"$123,000",806,17
+LN1199,Luis Miller,TX,54000,20.57,24,Debt Consolidation,03/29/2025,Denied,151000,753,7
+LN1050,Hannah Davis,tx,"$15,500",-,5 years,Education,12/02/2024,Denied,,635,
+LN1454,  Hannah Moore,PA,23500,17.75,36,car purchase,04/26/2025,Denied,134000,608,9
+LN1362,ROBERT PATEL,fl,"34,000",0.1524,36,Small Business,,Denied,53000,676,3
+LN1238,omar rivera,oh,,13.9%,36 months,Car Purchase,09/07/2024,Approved ,81000,702,1
+LN1294,SOFIA CLARK ,PA,"$48,000",7.38,60, Medical,05/31/2025,Approved,121000,803,18
+LN1343,Linda Garcia,New Jersey,-17000,19.79,60 months,Debt Consolidation,05/19/2025,Approved,157000,820,12
+LN1381,Sofia Davis,FL,29500,0.2368,24 months,Small Business,06/05/25,Pending,NULL,810,1
+LN1109,  Brian Martinez,NJ,21000,5.63,48 months,Small Business,12/06/24,Denied ,112000,754,14
+LN1426,Jessica Smith ,NJ,56000,5.83%,48,Car Purchase,05/16/2024,APPROVED,"$43,000",N/A,11
+LN1202,Omar Miller,OH,13500,24.2%,24,Education,2025-02-11,Approved,60000,673,1 years
+LN1352,Robert Walker,TX ,30000,20.02,48,Debt Consolidation,2025-08-15,Denied,49000,,1 years
+LN1282,Jessica Patel,FL,N/A,6.4,24,Education,10/18/2024,approved,70000,793,19
+LN1242,Daniel Anderson,CA,38000,17.2%,36 months,Home Improvement,06/28/2024,Pending,112000,659,10
+LN1477,James Lopez,NY,"8,500",18.78,48,Car Purchase,05/16/2024,pending,9999999,662,8
+LN1177,Ashley Thomas ,NJ,"$45,500",6.91,60 mo,Small Business,06/10/2025,Aprvd,124000,621,1
+LN1484,Jessica Nguyen,OHIO,47500,11.25%,24,Medical,18-07-25,DENIED,90000,709,16
+LN1245,Natalie Moore,nj,14000,11.96,48,Home Improvement,2025-06-20,Pending,"$111,000",718,4 years
+LN1003,Robert Garcia,CA,"16,500",20.19,36,Education,26-08-24,Pending,125000,611,8
+LN1316,Daniel Moore,OH,N/A,10.45,24,Small Business,2024-02-15,Approved ,155000,N/A,8
+LN1285,  Carlos Davis,PA,7000,15.73,48,Home Improvement,2024-03-30,Declined,77000,761,15
+LN1520,Jessica Moore,pa,44500,-,3 years,Car Purchase,03/07/24,Approved,156000,658,4
+LN1079,Natalie Thomas,NJ,"$23,500",0.1703,24 months, Medical,11/22/2024,Denied,130000,736,4
+LN1126,  Ashley Smith,fl,56000,18.01,24, Debt Consolidation,29-07-24,Approved,76000,820,12
+LN1452,Daniel Martinez,PA ,22000,18.58,24 months,Small Business,08/06/2024,Pending ,110000,798,7
+LN1465,luis lopez,NY,45000,12.13,24 months,Medical,02/04/2025,denied,98000,773,9
+LN1514,  Kevin Miller,Texas,"$36,500",17.69,60,Medical,03/20/2024,Pending,54000,638,6
+LN1105,Carlos Clark,Texas,44000,6.13,24,Education,2024-01-17,pending,64000,666,12 years
+LN1121,Carlos Kim,OHIO,"$30,500",6.93,36,Education,16-02-25,pending,122000,702,14
+LN1084,Omar Rivera,nj,"$35,500",,4 years, Education,"May 31, 2024",Pending,36000,684,18 years
+LN1042,Hannah Garcia,TX,"$6,000",0.0996,24,debt consolidation,08/20/2024,Denied ,NULL,606,3
+LN1158,Ashley Lopez,FL,44000,22.15,60,Small Business,10/27/2024,Approved,148000,609,4
+LN1155,Priya Moore,Pennsylvania,57000,20.33,36,Education,2025-04-30,Denied,72000,627,19
+LN1089,  Natalie Lopez,CA,57500,23.09,36,Car Purchase,01/10/2024,Approved ,55000,712,10 years
+LN1103,Luis Kim,Florida,,7.53,36 months,Medical,06/20/2025,pending,89000,636,6
+LN1076,Ashley Anderson,CA,48000,14.59,48,Car Purchase,02/23/2025,approved,60000,597,10
+LN1496,Maria Johnson,CA,24500,23.55,48,car purchase,04/05/2025,Pending,102000,783,15
+LN1001,LINDA SMITH,California,19500,10.15%,5 years,Education,2024-04-14,Denied,136000,0,1
+LN1236,David Thomas,pa,18000,11.66,60,Car Purchase,2024-05-06,DENIED,57000,606,14
+LN1085,Michael Moore,NJ,37500,11.68,48,Education,22-06-25,Pending,108000,752,5
+LN1203,David Anderson,TX,800000,11.68,2 years,Education,2024-07-10,DENIED,88000,694,8
+LN1235,Ashley Thomas,NJ,"$29,000",11.09,36,Education,2025-06-13,Denied,-146000,632,20
+LN1178,ASHLEY RIVERA,FL,38500,15.95,36 months,Home Improvement,21-11-24,DENIED,75000,672,16
+LN1073,maria johnson,California,42500,13.22,60,Debt Consolidation,02/01/24,denied,140000,633,1
+LN1393,Kevin Garcia,Florida,23000,8.4,5 years,Debt Consolidation,2024-08-18,Pending,73000,586,15 years
+LN1406,Sofia Moore,New Jersey,13000,6.93,60,Car Purchase,06/10/2025,Declined,41000,0,13
+LN1159,Carlos Lewis,NY,31500,-,48 months,HOME IMPROVEMENT,02/24/2024,Denied,148000,596,6+ yrs
+LN1047,Carlos Lewis,OH,-54500,17.63,24,Education,04/20/2024,Denied,"$148,000",9999,0 years
+LN1028,Luis Wilson,PA,"56,000",0.1348,48,Education,04/18/2024,Pending,120000,781,20
+LN1404,Sofia Thomas,ny,-53000,14.4,24,education,00/00/0000,approved,"$86,000",779,9
+LN1171,Daniel Torres,FL,42500,23.82,24,Small Business,07/14/2025,DENIED,55000,,1
+LN1340,Kevin Nguyen,OH,23500,15.78,48 months,car purchase,10/11/2024,Pending,"$70,000",605,
+LN1067,jessica smith,OHIO,"$5,000",13.03,24,HOME IMPROVEMENT,08/29/2024,Denied,NULL,757,11
+LN1503,Ashley Kim,OHIO,22500,10.2%,48,Medical,28-04-24,Approved,9999999,650,10
+LN1385,Ashley Johnson,oh,"$9,500",10.76,24 months,Car Purchase,01/31/2024,Approved,"$150,000",680,15
+LN1291,Hannah Walker,CA,55000,,36,Medical,"Mar 03, 2025",Declined,"$47,000",795,3
+LN1102,Priya Brown ,FL,42000,9.9,60,medical,"Jan 10, 2024",Denied,157000,671,14
+LN1269,  Michael Wilson,FL,"52,500",9.55,3 years,Home Improvement,06/26/2024,Approved,44000,731,
+LN1011,  Natalie Rivera,NJ,57000,13.12,36,Car Purchase,2024-06-17,approved,28000,754,12
+LN1306,Sofia Garcia,CA,3300000,20.36,36 months,Education,03/26/2024,Pending,104000,720,2
+LN1120,Sofia Wilson,CA,20500,11.0%,24,HOME IMPROVEMENT,2025-06-10,Approved,62000,608,13
+LN1086,Ashley Patel,CA,N/A,18.61%,48,Medical,2024-11-20,Denied,117000,805,17
+LN1263,Priya Wilson,New York,12000,0.2033,24 months,Home Improvement,03/04/2024,Denied,127000,755,10
+LN1472,James Moore,OH,27000,6.56,36,Education,2024-11-03,Pend,151000,767,
+LN1015,Priya Miller,PA,"$2,000",11.84,60,Home Improvement,09/25/2024,Pending,141000,9999,17
+LN1486,Brian Garcia,NEW JERSEY,"$15,000",12.71,48,Small Business,"Jun 29, 2025",Approved,106000,586,1
+LN1487,Maria Martinez,TX,N/A,23.6,24,HOME IMPROVEMENT,07/01/2025,Pending,"$136,000",797,18
+LN1475,Michael Miller,Florida,50500,18.01,48,SMALL BUSINESS,2024-03-10,Pending,124000,1200,15 years
+LN1138,MICHAEL GARCIA,TX ,41500,17.22,24,Home Improvement,05/25/2025,Approved,150000,770,1
+LN1397,LINDA LEWIS,NJ,26500,0.147,48,Debt Consolidation,11/01/2024,Pending,53000,624,10
+LN1219,MARIA WALKER,NY,35500,0.0627,36,Home Improvement,11/07/2024,Pending,83000,,16
+LN1483,Hannah Lewis ,Pennsylvania,-53000,5.78,60,SMALL BUSINESS,2024-02-28,pending,"$42,000",599,4
+LN1056,JESSICA PATEL,ca,22500,20.26,36,Medical,,approved,68000,639,19
+LN1260,  Hannah Nguyen,OH,45500,,48,debt consolidation,"Sep 25, 2024",Denied,139000,634,0
+LN1391,Linda Lewis,New York,10000,21.71,48,Education,08/13/2025,Pending,,560,1
+LN1120,Sofia Wilson,CA,20500,11.0%,24,HOME IMPROVEMENT,2025-06-10,Approved,62000,608,13
+LN1021,James Garcia,New Jersey,32000,17.11%,36,Debt Consolidation,04/11/2025,Pending,"$77,000",772,12
+LN1154,Jessica Rivera,Texas,30500,8.87%,48 months,DEBT CONSOLIDATION,"Aug 23, 2025",Approved,116000,739,5
+LN1206,Ashley Torres,ny,"45,000",15.2,48,Education,2024-03-21,Aprvd,,755,14
+LN1348,CARLOS TORRES,NJ,7500,21.01,24 months,Education,08/14/2024,Pending,-154000,679,11
+LN1248,omar thomas,TX,24500,11.44,60,Education,,DENIED,NULL,600,18
+LN1480,  Linda Lewis,OH,"$18,500",17.91,36,Education,12/12/2024,Denied,94000,775,6
+LN1308,NATALIE NGUYEN,NY,58000,20.4,60,Debt Consolidation,01/06/2025,Approved ,122000,803,9
+LN1192,Brian Walker,TX,6000,9.87,48,Home Improvement,"May 15, 2024",Approved,32000,615,6 years
+LN1371,robert johnson,tx,"$44,000",-,48,MEDICAL,23-05-24,Approved,NULL,801,5
+LN1130,PRIYA MILLER,TX,"6,000",0.105,36,Car Purchase,05/23/2025,Pending,"$158,000",793,11
+LN1125,Tiffany Lopez,oh,"$24,000",19.23,60,Medical,02/25/2025,Denied,,786,2
+LN1428,Ashley Rivera,oh,48000,11.91,36 months,Medical,10/20/2024,Pending,,616,1
+LN1243,Maria Moore,NY,38000,19.27,24,Small Business,2025-07-22,Denied,81000,569,18
+LN1055,TIFFANY WALKER ,CALIFORNIA,"43,000",16.08%,24,DEBT CONSOLIDATION,30-01-24,Approved,9999999,652,9
+LN1375,Daniel Lopez,CA,50500,22.3,24 mo,Car Purchase,05/08/2025,Approved,113000,594,0
+LN1223,Omar Martinez,TX,43000,11.21%,48,Education,"Mar 21, 2024",Approved,113000,9999,11
+LN1091,James Miller ,CA,25000,18.66,36,Debt Consolidation,05/01/2024,Denied,9999999,N/A,
+LN1295,Natalie Torres ,CA,20000,16.09,36,Home Improvement,03/25/2024,denied,154000,727,3
+LN1304,James Moore,fl,"13,500",16.46,60 mo,Education,2025-04-23,denied,139000,697,18
+LN1234,Omar Walker,tx,35500,17.69,36,education,2025-06-17,Pending,-143000,615,14
+LN1316,Daniel Moore,OH,N/A,10.45,24,Small Business,2024-02-15,Approved ,155000,N/A,8
+LN1415,Maria Brown,nj,28500,15.96,24,Car Purchase,07/27/2025,Denied,NULL,9999,14
+LN1225,Priya Brown,FL,"10,500",14.64%,60,Small Business,"May 14, 2025",Approved,78000,762,17
+LN1012,MARIA GARCIA,tx,32500,15.05,60, Car Purchase,"Feb 28, 2024",Pending,48000,820,5
+LN1386,Carlos Rivera,OH,50000,11.9,48 months,Small Business,12/10/2024,Approved,115000,749,10
+LN1476,Sofia Nguyen,Pennsylvania,44500,7.52,48,debt consolidation,11/27/2024,Approved,"$88,000",678,3
+LN1389,BRIAN LOPEZ ,OH,"$9,000",14.66,60,Medical,09/06/2024,Denied,71000,668,2
+LN1472,James Moore,OH,27000,6.56,36,Education,2024-11-03,Pend,151000,767,
+LN1084,Omar Rivera,nj,"$35,500",,4 years, Education,"May 31, 2024",Pending,36000,684,18 years
+LN1157,Tiffany Anderson ,CA,22000,18.43,36,Small Business,05/24/2025,Pending,94000,711,13
+LN1488,  Daniel Lewis,OH,4000,17.2,24,Debt Consolidation,2024-10-02,Denied,31000,688,3 years
+LN1468,priya wilson,FLORIDA,N/A,8.14,60,Home Improvement,09/13/2024,Denied,134000,629,17
+LN1505,Tiffany Wilson,NJ,40500,15.76,36,Home Improvement,01/23/2025,Denied,,606,11
+LN1052,Brian Johnson,PA,22500,17.06,36 months,EDUCATION,05/09/24,Pending,9999999,700,12
+LN1463,  Linda Martinez,NY,53000,,48,Car Purchase,05/17/2025,Pending,93000,739,15
+LN1332,Luis Kim,FL ,"$16,500",8.12%,48 months,Car Purchase,02/27/2025,DENIED,145000,769,16 years
+LN1173,priya walker,CA,50500,10.22,48,Car Purchase,00/00/0000,Pending,9999999,710,4
+LN1172,Omar Martinez,FL,59000,14.06,60,Home Improvement,05/25/2025,Approved,40000,562,17
+LN1504,Hannah Wilson,New York,45000,11.53,48,Small Business,03/28/2025,Approved,130000,,8
+LN1519,Michael Johnson,Ohio,55000,21.57,36,Small Business,03/30/2025,Denied,NULL,591,3
+LN1082,daniel clark,NEW YORK,50000,8.24,48,CAR PURCHASE,05/27/2025,Denied,39000,580,1
+LN1005,CARLOS LEWIS,oh,"$59,000",16.59,24,Medical,2024-08-12,Pending,158000,630,15
+LN1494,HANNAH NGUYEN,FL,28000,18.31%,60,Home Improvement,09/23/2024,Approved ,115000,706,10
+LN1446,Omar Brown,PA,41500,0.1894,36,Home_Improvement,"Aug 08, 2025",Approved,34000,755,4
+LN1184,  Sofia Lewis,Florida,5000,21.68,48,Education,07/16/2025,Pend,102000,597,2
+LN1323,brian lewis,Florida,18000,12.25%,36,Small_Business,00/00/0000,PENDING,57000,568,14
+LN1054,LINDA KIM,NY,"57,500",18.14,48,Small Business,2024-02-22,Denied,107000,707,11
+LN1360,Kevin Moore,NY,33500,15.36,60, Home Improvement,11/25/2024,Aprvd,151000,751,
+LN1500,robert brown,NEW YORK,48500,18.21,24,Debt Consolidation,2024-03-21,Approved,47000,673,10
+LN1018,James Martinez,NEW YORK,13000,16.53,24, Car Purchase,02/09/2024,Denied,139000,615,11
+LN1462,Natalie Kim ,NY,"$3,000",8.87,24,Debt Consolidation,"Mar 19, 2024",Denied,30000,647,19+ yrs
+LN1302,  Natalie Martinez,CA,"45,000",9.41,48,Debt Consolidation,"May 29, 2025",Declined,70000,733,19
+LN1507,Carlos Johnson,PA,"6,500",15.09,48,Small Business,TBD,DENIED,"$66,000",567,3
+LN1194,Robert Patel,TX,5800000,0.1583,24,Medical,07/12/2024,Pending,29000,562,18
+LN1289,  Carlos Lopez,TX,5500,8.28,,Car Purchase,05/18/2024,Approved,-69000,,1
+LN1191,Carlos Lopez,TX,27500,0.1689,36,Home Improvement,10/17/2024,Approved,83000,603,14
+LN1166,MICHAEL LOPEZ,NY,24500,22.5,24,Medical,04/05/24,approved,115000,750,5+ yrs
+LN1301,ELENA PATEL,TEXAS,7000,22.8,36,Medical,11/08/24,PENDING,114000,618,5
+LN1240,David Walker,Pennsylvania,8500,16.36,36,Car Purchase,"May 10, 2025",Pending,137000,707,19
+LN1072,PRIYA JOHNSON,OH,-40500,24.41,60,Education,2025-07-12,Pending,110000,710,3
+LN1244,Tiffany Martinez,Florida,52000,19.78,2 years,SMALL BUSINESS,2024-02-02,Approved,133000,699,2 years
+LN1096,Maria Nguyen,California,4500,13.14,60,Car Purchase,07/06/2025,APPROVED,42000,671,4
+LN1144,ROBERT WILSON ,oh,2500,10.54,5 years,Medical,2024-03-10,Pending ,93000,739,3
+LN1338,  Tiffany Kim,PA ,N/A,12.52%,24 months,Car Purchase,02/11/2024,Denied,9999999,638,11
+LN1515,Natalie Davis,nj,"$2,000",20.38,60 months,Medical,2024-04-03,Denied,"$64,000",635,5
+LN1060,Natalie Thomas ,FL,38000,19.94,48,Small Business,2025-08-01,Declined,108000,1200,4
+LN1473,Hannah Davis ,OH,32500,11.01,36 months,Small Business,"May 19, 2025",Approved,"$98,000",748,12
+LN1017,Linda Anderson,FL,"4,000",21.81,60,Small Business,07/23/2024,Denied,117000,795,9
+LN1268,MICHAEL SMITH,NJ,"$42,000",6.45,24,Debt Consolidation,2024-04-09,Pending,71000,793,18
+LN1479,Linda Martinez ,OHIO,16500,0.0648,,Car Purchase,01/24/2024,Pending,102000,9999,8
+LN1224,Daniel Clark,TX,"$11,500",11.71,60,HOME IMPROVEMENT,06/05/2024,Pending,128000,585,14
+LN1265,Robert Clark ,NJ,2000,12.8%,48,small business,2024-05-04,Denied,-113000,0,9
+LN1093,Linda Davis ,CA,39000,14.79,48,Debt Consolidation,02/26/2024,pending,"$61,000",792,16 years
+LN1093,Linda Davis ,CA,39000,14.79,48,Debt Consolidation,02/26/2024,pending,"$61,000",792,16 years
+LN1276,  Linda Thomas,OH,"$17,000",7.08,36,Education,"Feb 20, 2025",Pending ,61000,N/A,11
+LN1516,Kevin Rivera,NY,21500,21.43,24,Medical,06/27/2025,Approved,82000,600,5 years
+LN1351,Priya Johnson ,nj,14500,8.63,24,HOME IMPROVEMENT,03/05/2024,Denied,35000,609,15
+LN1213,carlos anderson,FL,"$2,500",7.82,5 years,Medical,2025-01-29,denied,91000,786,1+ yrs
+LN1296,jessica lopez,PA,45000,14.84%,36,home improvement,02/09/2025,Denied ,NULL,784,3
+LN1356,omar wilson,tx,"21,000",0.1346,60,Home Improvement,,Denied,38000,792,15
+LN1445,MICHAEL ANDERSON,CA,13000,13.16,24,Education,06/13/2025,Approved,9999999,,7
+LN1216,  Hannah Patel,TX,46500,14.81,60 months,Home Improvement,07/10/2025,pending,110000,738,14
+LN1160,  Sofia Johnson,OH,"23,000",17.49,60,DEBT CONSOLIDATION,2024-11-16,Denied ,29000,0,
+LN1395,JAMES TORRES,CA,"56,500",16.44%,60,Education,2025-01-20,Approved,71000,0,1
+LN1038,Brian Rivera ,Pennsylvania,3500,23.99%,60,Education,2024-06-11,PENDING,31000,719,17
+LN1175,david miller,FL,,8.56,24,Education,09/13/2024,Pending,43000,634,9
+LN1461,ELENA MILLER,OH,15000,8.75,60, Education,2024-12-21,Aprvd,101000,N/A,0 years
+LN1358,Carlos Martinez,PA ,5500000,0.1837,48,Car Purchase,04/23/2024,APPROVED,81000,733,9
+LN1373,ELENA MARTINEZ,FLORIDA,55000,0.2128,5 years,Car Purchase,2024-06-20,Aprvd,134000,0,16
+LN1364,DANIEL JOHNSON,ny,56000,,48,Medical,08/02/2024,Denied ,143000,784,17
+LN1502,Sofia Garcia,OH,46000,10.5,48,Education,08/20/2025,Denied,117000,680,15
+LN1095,James Smith,New York,"31,500",18.3,48,Debt Consolidation,2025-06-28,approved,"$86,000",0,7
+LN1271,Jessica Kim,PA,37500,0.0998,36 months,Debt Consolidation,26-06-25,Denied,NULL,608,17 years
+LN1451,Robert Thomas,NJ,58500,6.14,24 months,Home Improvement,2025-08-23,approved,9999999,769,19+ yrs
+LN1266,david patel,California,26500,22.53,24,Debt Consolidation,13-05-25,Denied,140000,603,6
+LN1303,Robert Lewis ,pa,39500,11.9,36,Education,08/03/2025,Denied,137000,803,
+LN1182,Luis Martinez,ny,"52,000",0.1853,36,Car_Purchase,15-10-24,Denied,125000,784,12
+LN1205,Sofia Garcia ,NJ,54000,10.33,36,Small Business,04/05/2025,Approved,94000,731,11
+LN1280,  Robert Davis,OH,7500,7.02,60,education,2024-10-22,Pending,NULL,599,5
+LN1193,Michael Walker,TX,54500,5.52,48,Small Business,TBD,Pending,122000,775,1
+LN1232,carlos brown,FL,,7.53,60,Car Purchase,2024-01-27,Pending ,87000,N/A,
+LN1424,Jessica Miller ,FL,47500,20.67,36 months,Car Purchase,00/00/0000,APPROVED,-109000,635,4
+LN1324,David Lopez ,pa,49500,24.16,24,Education,"Apr 18, 2024",Denied,32000,782,0
